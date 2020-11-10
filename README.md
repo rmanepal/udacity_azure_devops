@@ -20,30 +20,30 @@ Instructions to run:
 
 Launch azure portal, clone git repo using: git clone https://github.com/rmanepal/udacity_azure_devops.git
 
-![Optional Text] (./clon.PNG)
+![Optional Text](./clone.PNG)
 
 Compile project and run tests.
 
 1. `make all` will compile and build the project
 2. `make test` shall run unit tests and ensure all tests are passed
 
-![Optional Text] (./make_all_test.PNG)
+![Optional Text](./make_all_test.PNG)
 
 Pipeline 
 Any changes to the projectin github, shal trigger pipeline automatically
  - compile (liniting)
  - build
  - deploy
-![Optional Text] (./pipeline.PNG)
+![Optional Text](./pipeline.PNG)
 (https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
 Launch website:
-![Optional Text] (./flask_website.png)
+![Optional Text](./flask_website.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 Run make_predict_azure_app.sh 
 
-![Optional Text] (./azure_prediction.PNG)
+![Optional Text](./azure_prediction.PNG)
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
 
