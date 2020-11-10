@@ -14,20 +14,36 @@ https://trello.com/b/dasdqK70/flaskwebapp
 ![Optional Text](./Arch.PNG)
 * Architectural Diagram (Shows how key parts of the system work)>
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+Instructions to run:
+1. Clone this repo into azure cli 
+2. run command 'make all' 
 
-* Project running on Azure App Service
+Launch azure portal, clone git repo using: git clone https://github.com/rmanepal/udacity_azure_devops.git
 
-* Project cloned into Azure Cloud Shell
+![Optional Text] (./clon.PNG)
 
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
+Compile project and run tests.
 
-* Output of a test run
+1. `make all` will compile and build the project
+2. `make test` shall run unit tests and ensure all tests are passed
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+![Optional Text] (./make_all_test.PNG)
 
+Pipeline 
+Any changes to the projectin github, shal trigger pipeline automatically
+ - compile (liniting)
+ - build
+ - deploy
+![Optional Text] (./pipeline.PNG)
+(https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+
+Launch website:
+![Optional Text] (./flask_website.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
 
+Run make_predict_azure_app.sh 
+
+![Optional Text] (./azure_prediction.PNG)
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
 
