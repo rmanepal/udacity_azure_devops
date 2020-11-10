@@ -11,7 +11,7 @@ https://trello.com/b/dasdqK70/flaskwebapp
 
 ## Instructions
 
-![Optional Text](./Arch.png)
+![Optional Text](./Arch.PNG)
 * Architectural Diagram (Shows how key parts of the system work)>
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
