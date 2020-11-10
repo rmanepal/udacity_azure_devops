@@ -52,17 +52,19 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
+![Optional Text](./log_streaming.PNG)
 
-* Output of streamed log files from deployed application
+Able to stream logs
 
 > 
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+1. Project needs to be enhanced with HTML page as front end
+2. Accepts inputs from user and call webapp at backend
+3. predict the results
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
-
+https://www.youtube.com/watch?v=MwZwr5Tvyxo&ab_channel=CoreySchafer
 
