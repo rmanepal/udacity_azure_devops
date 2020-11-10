@@ -11,7 +11,7 @@ https://trello.com/b/dasdqK70/flaskwebapp
 
 ## Instructions
 
-![Optional Text](./Arch.PNG)
+![Optional Text](./Arch.png)
 * Architectural Diagram (Shows how key parts of the system work)>
 
 Instructions to run:
