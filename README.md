@@ -66,5 +66,5 @@ Able to stream logs
 
 ## Demo 
 
-https://www.youtube.com/watch?v=MwZwr5Tvyxo&ab_channel=CoreySchafer
+https://youtu.be/M75FS4Tjn8I
 
