@@ -51,6 +51,14 @@ Any changes to the projectin github, shal trigger pipeline automatically
 ![Optional Text](./pipeline.PNG)
 (https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
+
+Deployment (CD)
+
+Automatically any changes will trigger Azure pipelines 
+
+![Optional Text](./resources/azure_deployment.PNG)
+
+
 Launch website:
 ![Optional Text](./flask_website.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
