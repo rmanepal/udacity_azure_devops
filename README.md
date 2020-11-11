@@ -1,5 +1,5 @@
 
-[!Action Status](https://github.com/rmanepal/udacity_azure_devops/workflows/Build%20and%20Deploy/badge.svg)]
+[!Action Status](https://github.com/rmanepal/udacity_azure_devops/workflows/Build%20and%20Deploy/badge.svg)
 
 
 # Overview
