@@ -41,7 +41,7 @@ Compile project and run tests.
 2. `make test` shall run unit tests and ensure all tests are passed
 
 ![Optional Text](./make_all_passed.PNG)
-![Optinal Text](./all_passed.png)
+![Optinal Text](./resources/all_passed.png)
 
 Pipeline 
 Any changes to the projectin github, shal trigger pipeline automatically
