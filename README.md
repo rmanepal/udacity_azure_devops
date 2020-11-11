@@ -18,7 +18,7 @@ https://trello.com/b/dasdqK70/flaskwebapp
 find the project planning spreadsheet here
 ./resources/project-management-tempalte.xlsx 
 
-![Optinal Text] (./resources/plan.PNG)
+![Optinal Text](./resources/plan.PNG)
 
 
 
