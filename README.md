@@ -1,5 +1,5 @@
 
-[!Action Status(https://github.com/rmanepal/udacity_azure_devops/workflows/CI/badge.svg)](https://github.com/AndreSand/BornInApp/actions)
+[![Action Status](https://github.com/rmanepal/udacity_azure_devops/workflows/CI/badge.svg)](https://github.com/AndreSand/BornInApp/actions)
 
 
 # Overview
