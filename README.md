@@ -71,6 +71,10 @@ Able to stream logs
 
 > 
 
+Load tests using locust
+
+![Options Text](./locust_web.PNG)
+
 ## Enhancements
 
 1. Project needs to be enhanced with HTML page as front end
