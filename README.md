@@ -91,6 +91,5 @@ Load tests using locust
 3. predict the results
 
 ## Demo 
-
-https://youtu.be/M75FS4Tjn8I
+https://www.youtube.com/watch?v=FxkrItQoCUA&ab_channel=rajeshmanepalli
 
