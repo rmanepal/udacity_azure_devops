@@ -12,4 +12,4 @@ def hello(name, color):
         click.echo(click.style('Hello {}!'.format(name), fg=color))
 
 if __name__ == "__main__":
-    hello(name='Raj', color='Red')
+    hello(name='Raj1', color='Red')
