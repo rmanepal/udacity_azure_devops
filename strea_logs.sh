@@ -1,1 +1,1 @@
-az webapp log tail --resource-group flas_app --name flask-learn
+az webapp log tail --resource-group flask_app --name flask-learn
