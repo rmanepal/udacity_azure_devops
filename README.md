@@ -1,3 +1,7 @@
+
+[![Action Status](https://github.com/rmanepal/udacity_azure_devops/workflows/CI/badge.svg)](https://github.com/AndreSand/BornInApp/actions)
+
+
 # Overview
 
 Project - Flask web app which can predict housing prices for given inputs.
@@ -8,6 +12,15 @@ Project - Flask web app which can predict housing prices for given inputs.
 
 ## Project Plan
 https://trello.com/b/dasdqK70/flaskwebapp
+
+![Optional Text](./resources/Trello_dashboard.PNG)
+
+find the project planning spreadsheet here
+./resources/project-management-tempalte.xlsx 
+
+![Optinal Text](./resources/plan.PNG)
+
+
 
 ## Instructions
 
@@ -27,7 +40,8 @@ Compile project and run tests.
 1. `make all` will compile and build the project
 2. `make test` shall run unit tests and ensure all tests are passed
 
-![Optional Text](./make_all_test.PNG)
+![Optional Text](./make_all_passed.PNG)
+![Optinal Text](./resources/all_passed.png)
 
 Pipeline 
 Any changes to the projectin github, shal trigger pipeline automatically
@@ -36,6 +50,14 @@ Any changes to the projectin github, shal trigger pipeline automatically
  - deploy
 ![Optional Text](./pipeline.PNG)
 (https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+
+
+Deployment (CD)
+
+Automatically any changes will trigger Azure pipelines 
+
+![Optional Text](./resources/azure_deployment.PNG)
+
 
 Launch website:
 ![Optional Text](./flask_website.png)
@@ -57,6 +79,10 @@ Port: 443
 Able to stream logs
 
 > 
+
+Load tests using locust
+
+![Options Text](./locust_web.PNG)
 
 ## Enhancements
 
